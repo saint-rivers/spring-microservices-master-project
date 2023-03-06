@@ -1,0 +1,3 @@
+[submodule "chess-game-spring-data-jdbc"]
+	path = chess-game-spring-data-jdbc
+	url = git@github.com:saint-rivers/chess-game-spring-data-jdbc.git
