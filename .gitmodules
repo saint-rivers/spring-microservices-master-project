@@ -1,3 +1,6 @@
 [submodule "chess-game-spring-data-jdbc"]
 	path = chess-game-spring-data-jdbc
 	url = git@github.com:saint-rivers/chess-game-spring-data-jdbc.git
+[submodule "spring-microservices-book"]
+	path = spring-microservices-book
+	url = git@github.com:saint-rivers/spring-microservices-book.git
