@@ -7,3 +7,6 @@
 [submodule "kong-api-gateway-spring-boot"]
 	path = kong-api-gateway-spring-boot
 	url = git@github.com:saint-rivers/kong-api-gateway-spring-boot.git
+[submodule "kong-api-gateway-sample"]
+	path = kong-api-gateway-sample
+	url = git@github.com:saint-rivers/kong-api-gateway-sample.git
